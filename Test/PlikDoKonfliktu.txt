@@ -1,3 +1,4 @@
 witaj œwiecie
+nowa linijka
 To plik do konfliktu
 co siê bedzie dzia³o
