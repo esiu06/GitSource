@@ -1,4 +1,5 @@
 witaj œwiecie
+nowa linijka
 To plik do konfliktu
 To jest fragment z Brancha
 co siê bedzie dzia³o
