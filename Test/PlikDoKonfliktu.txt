@@ -1,3 +1,4 @@
 witaj œwiecie
 To plik do konfliktu
+To jest fragment z Brancha
 co siê bedzie dzia³o
